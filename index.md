@@ -6,6 +6,12 @@
 <br>
 
 
-## Missão
+## Nosso Grupo
+
+<p>
+  O LabP2D é composto de professores e alunos, graduandos e mestrandos, unidos pelo interesse em solucionar problemas nas áreas de pesquisa do LabP2D.
+</p>
 
 <ul>
+### PROJETOS
+
