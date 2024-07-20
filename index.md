@@ -9,9 +9,8 @@
 ## Nosso Grupo
 
 <p>
-  O LabP2D é composto de professores e alunos, graduandos e mestrandos, unidos pelo interesse em solucionar problemas nas áreas de pesquisa do LabP2D.
+  LabP2D is made up of professors and students, undergraduates and master's students, united by their interest in solving problems in LabP2D's research areas.
 </p>
 
-<ul>
-### PROJETOS
+## Projetos
 
