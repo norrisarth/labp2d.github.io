@@ -6,7 +6,7 @@
 <br>
 
 
-## Nosso Grupo
+# Nosso Grupo
 
 <p>
   LabP2D is made up of professors and students, undergraduates and master's students, united by their interest in solving problems in LabP2D's research areas.
