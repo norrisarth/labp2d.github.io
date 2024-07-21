@@ -21,7 +21,13 @@
   <li>Maurício Aronne Pillon(Integral)
   <ul><li>
   <a href="http://lattes.cnpq.br/3752298390911021" targer="_blank" rel="noopener">CV Lattes</a>
-
+  </li></ul>
+  </li>
+  </u>
+  <li>Guilherme Piêgas Koslovski(Integral)
+  <ul><li>
+  <a href="http://lattes.cnpq.br/2749773427704993" target="_blank" rel="noopener">CV Lattes</a>
+  </li></ul>
   </li>
 </p>
 
