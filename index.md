@@ -29,6 +29,8 @@
 
 <p>
   Provisioning Virtual Infrastructures in Software-Defined Networks
-  >  
+  <ul>  
+Software-Defined Networking (SDN) allows separation between the control plane and the data plane in communication equipment. In this scenario, management of routes, hops and flow paths is carried out by a controller located external to the switches (or routers). This approach facilitates studies, research and development of new solutions (protocols, architectures and algorithms) for networks of computers. Among the possibilities for applying SDN, its use for implementing the communicating resources of Virtual Infrastructures (IVs) stands out. IVs are composed of virtual machines interconnected by links and virtual communication channels. In this context, this project will investigate the complexity of provisioning IVs in software-defined networks. Among the tasks required for provisioning, the allocation of resources to host IVs stands out for being a problem belonging to the NP-Hard class. Above all, in SDN environments, dimensions are added to the problem, such as the definition of controller positioning, the composition of forwarding tables, the representation of data flows and new hardware limits. To achieve efficient provisioning in production environments, it is necessary to develop resource allocation mechanisms that consider metrics such as computational load, stress on communication equipment, latency and request acceptance rate. This project will address the impact observed on the identified metrics considering SDNs.
+
 </p>
 
