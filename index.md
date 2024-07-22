@@ -41,7 +41,7 @@
 <u>
 Efficient Computing Clouds Program with Free Software and Hardware - COLMÉIA
 
-<ul> 
+
 </p>   
 <p>
   
@@ -59,7 +59,6 @@ Funder(s): University of the State of Santa Catarina - Aid
 <u>
 
 Robotics for Social Inclusion - RISO 2022-2023
-<ul>
   
 Description: Description: This Extension Program is made up of four projects, all aimed at promoting the social inclusion of different audiences through robotics. They are: Robotics of Tomorrow (RODA); Autonomous Robotics Study Group (GERA); Robotics Events Center (NERO); and Regional Symposium on Robotics and Automation (SRRA). In the RODA action, the aim is to contribute to promoting the social inclusion of children and adolescents in situations of social vulnerability through the use of mobile robotics kits. This is a first contact with robotics, which is used as a motivational aspect for learning subjects such as mathematics and physics, as well as for the development of skills and competencies such as leadership, logical reasoning, organization, and teamwork. In the GERA action, the objective is to promote the social inclusion of children and adolescents through activities involving programming, electronics and robotics concepts. It can be seen as a way of motivating students to enter higher education, through exposure to how different areas of knowledge are related through the multidisciplinary nature of robotics. NERO's objectives are: to promote the social inclusion of the community in general by promoting mobile robotics and its applications; and take another step towards the inclusion of students who have already had previous contact with robotics through fairs, exhibitions and competitions held by the group. SRRA's main objective is to bring together universities and companies to debate emerging topics related to robotics and automation.
 Status: In progress; Nature: Extension.
@@ -73,7 +72,6 @@ Financier(s): University of the State of Santa Catarina - Scholarship.
 <u>
 Efficient Computing Clouds Program with Free Software and Hardware - COLMÉIA 2020/2021
 
-<ul>
 Description: Computing clouds are increasingly demonstrating their importance in facilitating and democratizing access to high-performance computing resources worldwide. In this sense, since 2012 Colméia has been seeking to disseminate it at the same time as it seeks to maintain and improve a computational cloud within CCT/UDESC, the Nuvem Tchê. Extension action has evolved and now becomes a program. In this sense, the actions foreseen in the program consist of: Open Computing Clouds, Events and Efficient Cloud Computing. The Open Computing Clouds action aims to improve the culture of open solutions by encouraging the internal/external community to understand the responsibilities, implications and benefits of using cloud computing solutions with an emphasis on solutions based on OpenStack open source software, as well how to interact with the solution’s developer community. The Events action aims to promote both the holding of events (training, lectures and courses) and also participation in renowned events. Finally, the Efficient Cloud Computing action aims to use free hardware and other open technologies (e.g., IoT) to improve sustainable and energy efficient practices.
 Status: Completed; Nature: Extension.
 Students involved: Bachelor's degree: (8) / Academic master's degree: (3) .
@@ -87,7 +85,6 @@ Funder(s): University of the State of Santa Catarina - Aid 										financial.
 **2018-2021**
 <u>
 RODA - Robotics of Tomorrow (Robotics for Social Inclusion? RISO)
-<ul>
   
 Description: The "Robotics for Social Inclusion" program is made up of three actions and aims to include a diverse audience through activities related to robotics. The "Robotics of tomorrow" action focuses on the social inclusion of children and adolescents in a situation of risk or social vulnerability, by promoting their first contact with robotics. This will be done through activities with robotics kits, encouraging them to seek knowledge, awakening interest in higher education and improving self-esteem and self-confidence. . In the action "Study Group on Autonomous Robotics - GERA", the objective is to promote the social inclusion of more developed students, through the carrying out of advanced autonomous robotics activities. Tomorrow". To this end, workshops and mini-courses will be held, which will be aimed preferably at high school and technical school students. The action "Núcleo de Eventos sobre Robótica - NERO" has two main objectives: to promote the social inclusion of a broad audience through dissemination of mobile robotics and its applications; and take a third step towards consolidating the inclusion of students who have already had previous contact with robotics. To achieve the first objective, participation in exhibitions and fairs in schools and other public spaces is planned. To achieve the second objective, robotics championships open to the community will be organized and UDESC teams will also participate in national and international mobile robotics competitions.
 Status: Completed; Nature: Extension.
@@ -101,6 +98,7 @@ Members: Charles Christian Miers - Member / André Bittencourt Leal - Coordinato
 **2018 - 2019**
 <u>
 **Efficient Computing Clouds Program with Free Software and Hardware - COLMÉIA 2018/2019**
+
 Description: Computing clouds are increasingly demonstrating their importance in facilitating and democratizing access to high-performance computing resources worldwide. In this sense, since 2012 Colméia has been seeking to disseminate it at the same time as it seeks to maintain and improve a computational cloud within CCT/UDESC, the Nuvem Tchê. Extension action has evolved and now becomes a program. In this sense, the actions foreseen in the program consist of: Open Computing Clouds, Events and Efficient Cloud Computing. The Open Computing Clouds action aims to improve the culture of open solutions by encouraging the internal/external community to understand the responsibilities, implications and benefits of using cloud computing solutions with an emphasis on solutions based on OpenStack open source software, as well how to interact with the solution’s developer community. The Events action aims to promote both the holding of events (training, lectures and courses) and also participation in renowned events (e.g., OpenStack Day Brasil). Finally, the Efficient Cloud Computing action aims to use free hardware and other open technologies (e.g., IoT) to improve sustainable and energy efficient practices.
 Status: Completed; Nature: Extension.
 Students involved: Bachelor's degree: (8) / Academic master's degree: (2) .
@@ -113,6 +111,7 @@ Members: Charles Christian Miers - Coordinator / Maurício Aronne Pillon - Membe
 **2017 - 2017**
 <u>
 **Free Software and Hardware Socialization Program - Colmeia 2017**
+
 Description: The term 'Free Software and Hardware' is used here in reference to the development modality based on the four freedoms. This is not a reference to 'free software and hardware', the acquisition/assembly of which is free of any cost, it is intended to refer to the open software and hardware project, which can be studied, modified, improved and associated with other open solutions. Thus, in the proposals of this extension program as well as in the proposals for associated projects/actions, when mentioning the expression 'free software and hardware' an allusion is made to open project software and hardware on which the four freedoms can be exercised. In addition to playing the traditional role of fostering the culture of open development -- the dissemination of knowledge will continue to be carried out in a general manner in all actions of this program through events, lectures, workshops, technical opinions, short courses, solutions and developments related to the topic of the program ---, for 2017 two specific actions are being proposed for this purpose: the Events action which includes socialization through the participation/organization of free software workshops and events in areas relevant to the program; and action in the Cloud Computing community that aims to spread knowledge about the use and creation of free cloud computing services based on open source (e.g., OpenStack). The third action of this project proposes working with society to meet training demands, more generic consultancy, development of solutions using hardware and free software.
 Status: Completed; Nature: Extension.
 Students involved: Bachelor's degree: (11) / Academic master's degree: (2) .
@@ -137,6 +136,7 @@ Funder(s): University of the State of Santa Catarina - Aid 										finance / U
 **2016 - 2016**
 <u>
 **Free Software and Hardware Socialization Program - Colmeia 2016**
+
 Description: The term 'Free Software and Hardware' is used here in reference to the development modality based on the four freedoms. This is not a reference to 'free software and hardware', the acquisition/assembly of which is free of any cost, it is intended to refer to the open software and hardware project, which can be studied, modified, improved and associated with other open solutions. Thus, in the proposals of this extension program as well as in the proposals for associated projects/actions, when mentioning the expression 'free software and hardware' an allusion is made to open project software and hardware on which the four freedoms can be exercised. In addition to playing the traditional role of fostering the culture of open development -- the dissemination of knowledge will continue to be carried out in a general manner in all actions of this program through events, lectures, workshops, technical opinions, short courses, solutions and developments related to the topic of the program ---, for 2016 two specific actions are being proposed for this purpose: the Events action which includes socialization through the participation/organization of free software workshops and events in areas relevant to the program; and action in the Cloud Computing community that aims to spread knowledge about the use and creation of free cloud computing services based on open source (e.g., OpenStack). The third action of this project proposes working with society to meet training demands, more generic consultancy, development of solutions using hardware and free software.
 Status: Completed; Nature: Extension.
 Students involved: Bachelor's degree: (12) / Academic master's degree: (2) .
@@ -175,7 +175,6 @@ Funder(s): University of the State of Santa Catarina - Aid 										financial.
 **2014 - 2014**
 <u>
 **Free Software and Hardware Socialization Program in the Community -2014**
-<ul>
   
 Description: The term 'Free Software and Hardware' is used here in reference to the development modality based on the four freedoms. This is not a reference to 'free software and hardware', the acquisition/assembly of which is free of any cost, it is intended to refer to the open software and hardware project, which can be studied, modified, improved and associated with other open solutions. Thus, in the proposals of this extension program as well as in the proposals for associated projects/actions, when mentioning the expression 'free software and hardware' an allusion is made to open project software and hardware on which the four freedoms can be exercised. In addition to playing the traditional role of fostering the culture of open development -- the dissemination of knowledge will continue to be carried out in a general manner in all actions of this program through events, lectures, workshops, technical opinions, short courses, solutions and developments related to the topic of the program ---, for 2014 two specific actions are being proposed for this purpose: the Events action which includes socialization through the participation/organization of free software workshops and events in areas relevant to the program; and action in the Cloud Computing community that aims to spread knowledge about the use and creation of free cloud computing services based on open source (e.g., OpenStack). The third action of this project proposes working with society to meet training demands, more generic consultancy, development of solutions using hardware and free software. In this edition, Android was included.
 Status: Completed; Nature: Extension.
@@ -218,7 +217,7 @@ Members: Charles Christian Miers - Coordinator / Janine Kniess - Member / Gilmá
 **2013 - 2013**
 <u>
 **Free Software and Hardware Socialization PROGRAM - 2013**
-<ul>
+
 Description: The term 'Free Software and Hardware' is used here in reference to the development modality based on the four freedoms. This is not a reference to 'free software and hardware', the acquisition/assembly of which is free of any cost, it is intended to refer to the open software and hardware project, which can be studied, modified, improved and associated with other open solutions. Thus, in the proposals of this extension program as well as in the proposals for associated projects/actions, when mentioning the expression 'free software and hardware' an allusion is made to open project software and hardware on which the four freedoms can be exercised. In addition to playing the traditional role of fostering a culture of open development, the dissemination of knowledge will continue to be carried out in a general manner in all actions of this program through events, lectures, workshops, technical opinions, short courses, solutions and developments related to the program theme. ---, for 2013 two specific actions are being proposed for this purpose: the Events action which includes socialization through the participation/organization of free software workshops and events in areas relevant to the program; and action in the OpenStack community that aims to spread knowledge about the use and creation of cloud computing services based on the OpenStack open source solution. The third action of this project proposes working with society to meet training demands, more generic consultancy, development of solutions using hardware and free software.
 Status: Completed; Nature: Extension.
 Students involved: Undergraduate: (12) .
